@@ -41,7 +41,7 @@
 <br />
 
 ---
-[instagram]:http:instagram.com/notorious._.b.i.g
+[instagram]: http:instagram.com/notorious._.b.i.g
 
 
 
