@@ -39,9 +39,7 @@
 
 <br />
 <br />
-
----
-[instagram]: http:instagram.com/notorious._.b.i.g
+[instagram]: https://instagram.com/notorious._.b.i.g
 
 
 
