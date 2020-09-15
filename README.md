@@ -40,7 +40,7 @@
 <br />
 <br />
 
-[instagram]: https://instagram.com/notorious.b.i.g
+[instagram]:https://instagram.com/notorious.b.i.g
 
 
 
