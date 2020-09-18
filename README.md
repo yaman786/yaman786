@@ -4,8 +4,9 @@
 
 - 🔭 I’m currently working on myself. 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators.
-- 🥅 2020 Goals: Contribute more to Open Source projects.
+- 👯 I’m looking to collaborate with other content creators as well as 'm passionate about delivering to my clients.
+.
+- 🥅 2020 Goals: Be a successful FullStack JS developer Contribute more to Open Source projects .
 - ⚡ Fun fact: I love to travel and visit new places.
 
 ### Connect with me:
