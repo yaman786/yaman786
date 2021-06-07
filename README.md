@@ -1,12 +1,12 @@
 ### Hi there, I'm  Yaman 👋
 
-## I'm a good Son , Developer, Teacher, Traveller  and Explorer!
+## I'm a good Son , Data geeks, Teacher, Traveller  and Explorer!
 
 - 🔭 I’m currently working on myself. 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators as well as 'm passionate about delivering to my clients.
 .
-- 🥅 2020 Goals: Be a successful FullStack JS developer Contribute more to Open Source projects .
+- 🥅 2021 Goals: Be a successful Data Analyst Contribute more to Open Source projects .
 - ⚡ Fun fact: I love to travel and visit new places.
 
 ### Connect with me:
