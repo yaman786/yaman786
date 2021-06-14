@@ -25,17 +25,14 @@ my undergraduate program, I have studied Data Structures and Algorithms, Data An
 where I got to know concepts such as multivariable calculus, statistics and probability theory, which were the
 beginning of my interest and played a vital role for pursuing my career.
 
-I look forward to seek internship opportunities in following fields:
-  • Analytics (Business/IT/Data/Marketing/Digital Media)
-  • Business Intelligence, Big Data
-  • Data Engineering
-
-Technical Skills:
+## Technical Skills:
   Programming and Database: SQL, R, Python, JavaScript, HTML5
   Analytics Tools: Google Analytics, Tableau, Microsoft Excel, Power BI
+  
   Database: Oracle SQL, MySQL, MS SQL Server, Mongo DB
   Tools: Microsoft Office Suite, Bitbucket, Jira, VS Code, Scrapy, AWS, Apache Spark
-Behavioral skills:
+  
+  Behavioral skills:
   Always Learning & Self-improvement, Decision maker, Problem Solver
   I’m a competent and competitive candidate you are looking for. I look forward elaborating my specific skills and
   abilities. Please feel free to contact me via email at ranayaman66@gmail.com to arrange for a convenient meet
