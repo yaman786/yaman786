@@ -1,14 +1,14 @@
 ### Hi there, I'm  Aman 👋
 
-## I'm a good Son , Data fanatic, Traveller  and Explorer!
+## I'm a Data fanatic, Traveller  and Explorer!
 
 - 🔭 I’m currently working on myself. 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I look forward to seek internship opportunities in following fields:
+- 👯 I look forward to seek opportunities in following fields:
         • Analytics (Business/IT/Data/Marketing/Digital Media)
         • Business Intelligence, Big Data
         • Data Engineering 
-- 🥅 2022 Goals: Be a successful Data Analyst Contribute more to Open Source projects.
+- 🥅 2023 Goals: Be a successful Data Analyst Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to travel and visit new places.
 
 ## About Me:
